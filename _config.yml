@@ -2,6 +2,7 @@ name: Getpro
 favicon: null
 layout_spectrum: 0.03137
 typography_spectrum: 0.5981400811579078
+title: Getpro
 cta:
   domain: null
   bucket: null
