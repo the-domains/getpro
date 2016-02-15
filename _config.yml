@@ -1,20 +1,4 @@
-name: Getpro
-favicon: null
-layout_spectrum: 0.03137
-typography_spectrum: 0.5981400811579078
-title: Getpro
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#010101'
@@ -24,6 +8,11 @@ color:
     - '#b38f55'
   brandStrength: 0.6679478466976434
   lightness: 0.4020976349711418
-  saturation: 0.4735835113096982
   rhythmicContrast: 0.6892020921222866
+  saturation: 0.4735835113096982
+cta: {}
+layout_spectrum: 0.011824
+name: Getpro
+opengraph: {}
 purpose: []
+typography_spectrum: 0.5981400811579078
